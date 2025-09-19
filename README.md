@@ -1,4 +1,4 @@
-InsightStream - Navigate the news landscape demo viedo : https://drive.google.com/file/d/1ZGToAXPcmI8pn8Nf4GrpgHtlxoSRKTxR/view?usp=sharing
+InsightStream - Navigate the news landscape demo viedo : https://www.mediafire.com/file/9hdgnyfzq7ysuwp/VN20250918_163327.mp4/file
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
